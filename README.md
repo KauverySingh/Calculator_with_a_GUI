@@ -4,4 +4,4 @@ This project is a simple Python project. The main aim of the project is to desig
 
 Output Screenshot:
 
-![GUI Calculator](/Output/Output1.png)
+![GUI Calculator](/Output1/Output1.png)
